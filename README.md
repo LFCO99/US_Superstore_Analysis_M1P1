@@ -70,4 +70,4 @@ I recognize that the tasks/functions of a Data Scientist differ from a Data Anal
   ![High Discount Products](discount_by_product_lollipop.png)
 
 ## License
-MIT License (free to use, modify, share).
+[MIT License](LICENSE) (free to use, modify, share).
